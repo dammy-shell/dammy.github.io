@@ -1,0 +1,1 @@
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['nav']={"name":"$navigation.md","path":"$navigation.md","content":"\n#### [首页](?file=home-首页)\n\n##### 论文学习\n- **Facility location optimization**\n    - [LSCP](?file=001-论文学习/01-Facility location optimization/001_LSCP \"LSCP\")\n","timestamp":1659168162638}

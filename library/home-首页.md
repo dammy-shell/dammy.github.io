@@ -6,5 +6,5 @@
 —— **记录一些学习笔记**
 
 GitHub Repository:
-https://github.com/dammy-shell/dammy.github.io   
+https://github.com/dammy-shell/wiki.com
 Powered by:[ [amWiki](https://amwiki.org/doc/) ]
